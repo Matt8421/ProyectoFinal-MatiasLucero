@@ -95,8 +95,8 @@ const ContextProvider = ({children}) => {
         const getProductById = (id) => {
             return products.find(producto => producto.id == id )
         }
-        const [cart,setCart] =useState([])
-        const addProductCart = (id) =>{
+            const [cart,setCart] =useState([])
+            const addProductCart = (id) =>{
             setCart([...cart, getProductById(id)])
         }
         return (

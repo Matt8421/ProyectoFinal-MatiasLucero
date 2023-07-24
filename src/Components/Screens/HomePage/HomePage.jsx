@@ -7,7 +7,6 @@ const HomePage = () => {
     const {products} = useCustomContext()
   return (
     <div>
-        {/* <h1>Lista de Productos</h1> */}
         <div className='gridHomePage'>
             {products.map(producto =>(
             <ProductCard  producto={producto} key={producto.id}/>

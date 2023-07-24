@@ -17,11 +17,5 @@
         font-size: 0.5rem;
     }
     
-    .cartPageFont{
-        display: flex;
-        color: var(--color-principal);
-        margin-top: 1rem;
-        margin-left: 1rem;
-    }
 }
 

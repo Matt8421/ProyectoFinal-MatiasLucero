@@ -15,7 +15,6 @@ const App = () => {
     
     return (
       <>
-        
           <NavBar/>
           <Routes>
             <Route path='/' element={<HomePage/>}/>
@@ -23,11 +22,12 @@ const App = () => {
             <Route path='/cart' element={<Cartpage/>}></Route>
             <Route path='/contact' element={<Contact/>}></Route>
           </Routes>
-         
         <Footer/> 
       </>
-    
     )
 }
 
 export default App
+
+
+

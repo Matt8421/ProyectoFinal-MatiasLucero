@@ -32,11 +32,5 @@
         color: var(--color-secundario);
     }
     
-    .constructor{
-        color: var(--color-acento);
-        margin-bottom: 0.7rem;
-    }
-    .gapFooter{
-        margin-bottom: 0.35rem;
-    }
+    
 }

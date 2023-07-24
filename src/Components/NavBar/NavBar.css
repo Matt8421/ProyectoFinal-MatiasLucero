@@ -68,20 +68,11 @@
         padding-right: 1rem;
     }
     
-    .colorPrincipal{
-        color: var(--color-principal);
-    }
-    .faltaMargin{
-        margin-top: 2%;
-    }
-    
     .navBarWidth{
         width: unset;
         font-size: 0.5rem;
     }
-    .navBarHome{
-        margin-right: 1rem;
-    }
+
     .navBarLeft{
         padding-left: 0.5rem;
     }
@@ -91,9 +82,7 @@
         padding-left: 1rem;
         padding-right: 1rem;
     }
-    .marginTop{
-        margin-top: 0.7rem;
-    }
+    
 }
 
 

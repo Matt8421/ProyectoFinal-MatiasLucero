@@ -15,7 +15,7 @@ const ProductCard = ({producto}) => {
             <Link to={"/detail/" + producto.id} className='fondoCard'> Ver Detalle</Link>
             <div className='fondoCard'><button className='comprarButton' onClick={() => addProductCart(productDetail.id)}>Comprar</button></div>
         </div>
-            
+        
     )
 }
 
