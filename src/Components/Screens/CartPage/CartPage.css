@@ -13,8 +13,8 @@
 @media screen and (max-width: 660px){
     .gridCartPage{
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        font-size: 0.84rem;
+        grid-template-columns: repeat(2, 1fr);
+        font-size: 0.5rem;
     }
     
     .cartPageFont{
