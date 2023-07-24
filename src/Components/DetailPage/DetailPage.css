@@ -1,0 +1,16 @@
+.detailPage{
+    margin: 1.2rem;
+    color: var(--color-acento);
+}
+.marginDescripcion{
+    margin: 1.5rem;
+}
+@media screen and (max-width: 660px){
+    .detailPage{
+        margin: 1.2rem;
+        color: var(--color-acento);
+    }
+    .marginDescripcion{
+        margin: 1.5rem;
+    }
+}
